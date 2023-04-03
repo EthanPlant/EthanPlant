@@ -2,7 +2,7 @@
 
 I'm a 4th year computer science student at the University of Ottawa and aspiring web developer.
 
-- 📚 I'm currently learning and **Tailwind**
+- 📚 I'm currently learning **NextJS** and **Tailwind**
 
 - 📄 A list of my skills and projects can be found on my [resume](https://drive.google.com/file/d/1X8QFjlm7rYfA_vPPHyaJjlp_rUWH-zJk/view?usp=sharing)
 
