@@ -1,6 +1,6 @@
 # Hi I'm Ethan 👋
 
-I'm a 4th year computer science student at the University of Ottawa and aspiring web developer.
+I'm a 4th year computer science student at the University of Ottawa, developer at [Hack the Hill](https://hackthehill.com/) and software development intern at Amazon. 
 
 - 📚 I'm currently learning **NextJS** and **Tailwind**
 
