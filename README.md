@@ -1,8 +1,8 @@
 # Hi I'm Ethan 👋
 
-I'm a 4th year computer science student at the University of Ottawa, developer at [Hack the Hill](https://hackthehill.com/) and software development intern at Amazon. 
+I'm a 4th-year computer science student at the University of Ottawa, and software development intern at Amazon Web Services. 
 
-- 📚 I'm currently learning **NextJS** and **Tailwind**
+- 📚 I'm currently learning **Rust**.
 
 - 📄 A list of my skills and projects can be found on my [resume](https://drive.google.com/file/d/1X8QFjlm7rYfA_vPPHyaJjlp_rUWH-zJk/view?usp=sharing)
 
