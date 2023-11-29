@@ -1,6 +1,6 @@
 # Hi I'm Ethan 👋
 
-I'm a 4th-year computer science student at the University of Ottawa, and software development intern at Amazon Web Services. 
+I'm a 4th-year computer science student at the University of Ottawa
 
 - 📚 I'm currently learning **Rust**.
 
